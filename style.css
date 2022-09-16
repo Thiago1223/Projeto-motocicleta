@@ -1,0 +1,435 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #222121;
+    border: 10px solid #CA9B37
+}
+header {
+    background-color: #222121;
+    display: flex;
+}
+.logo {
+    margin-top: 40px;
+    margin-left: 85px;
+    width: 130px;
+    height: 85.86px;
+}
+.lista {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-family: 'Roboto';
+    font-size: 28px;
+    color: #FFFFFF;
+}
+.sobre {
+    margin-left: 421px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.loja {
+    margin-left: 124px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.contato {
+    margin-left: 134px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.lupa {
+    margin-left: 491px;
+}
+.menu {
+    margin-left: 102.39px;
+}
+main {
+    background-color: #222121;
+    display: flex;
+    height: 590px;
+}
+.titulo {
+    position: absolute;
+    font-family: 'Delius Unicase';
+    color: #C19932;
+    margin-top: 50px;
+    margin-left: 108px;
+    font-weight: 700;
+    font-size: 72px;
+    width: 484px;
+    height: 92px;
+}
+.titulo2 {
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 200px;
+    font-weight: 600;
+    margin-top: 142px;
+    margin-left: 108px;
+    width: 617px;
+    height: 234px;
+    color: #FFFFFF;
+}
+.descricao {
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 376px;
+    margin-left: 115px;
+    width: 548px;
+    height: 70px;
+    color: #FFFFFF;
+}
+.botao {
+    position: absolute;
+    font-family: 'Roboto';
+    text-decoration: none;
+    font-size: 30px;
+    color: #FFFFFF;
+    padding: 10px;
+    margin-top: 501px;
+    margin-left: 118px;
+    padding-left: 34px;
+    padding-top: 17px;
+    border: 3px solid #C19932;
+    border-radius: 50px;
+    width: 368px;
+    height: 77px;
+}
+.setinha {
+    position: absolute;
+    margin-left: 125.5px;
+}
+.motocicleta {
+    z-index: 1;
+    width: 1004px;
+    height: 725px;
+    margin-top: -54px;
+    margin-left: 55px;
+}
+.circulo1 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 135px;
+    margin-left: 1110px;
+}
+.fundoCirculo1 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 135px;
+    margin-left: 1110px;
+}
+.cruz1 {
+    position: absolute;
+    z-index: 1;
+    width: 19px;
+    height: 19px;   
+    margin-top: 144px;
+    margin-left: 1119px;
+}
+.linhaHandlebar {
+    position: absolute;
+    z-index: 1;
+    width: 170px;
+    height: 148px;
+    margin-top: 8px;
+    margin-left: 1150px;
+}
+.handlebar {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-top: -23px;
+    margin-left: -458px;
+}
+.circulo2 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 213px;
+    margin-left: 1040px;
+}
+.fundoCirculo2 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 213px;
+    margin-left: 1040px;
+}
+.cruz2 {
+    position: absolute;
+    z-index: 1;
+    width: 19px;
+    height: 19px;   
+    margin-top: 221px;
+    margin-left: 1048px;
+}
+.linhaSignalLights {
+    position: absolute; 
+    z-index: 1;
+    width: 107px;
+    height: 100px;
+    margin-top: 229px;
+    margin-left: 1075px;
+}
+.signalLights {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    width: 67px;
+    margin-top: 325px;
+    margin-left: -233px;
+}
+.circulo3 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 268px;
+    margin-left: 1479px;
+}
+.fundoCirculo3 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 268px;
+    margin-left: 1479px;
+}
+.cruz3 {
+    position: absolute;
+    z-index: 1;
+    width: 19px;
+    height: 19px;   
+    margin-top: 276px;
+    margin-left: 1487px;
+}
+.linhaErgonomicSeat {
+    position: absolute;
+    z-index: 1;
+    width: 170px;
+    height: 148px;
+    margin-top: 140px;
+    margin-left: 1514px;
+}
+.ergonomicSeat {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-top: 110px;
+    margin-left: 380px;
+}
+.circulo4 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 545px;
+    margin-left: 982px;
+}
+.fundoCirculo4 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 545px;
+    margin-left: 982px;
+}
+.cruz4 {
+    position: absolute;
+    z-index: 1;
+    width: 19px;
+    height: 19px;
+    margin-top: 554px;
+    margin-left: 991px;
+}
+.linhaAlloyWheels {
+    position: absolute;
+    z-index: 1;
+    width: 175px;
+    height: 41px;
+    margin-top: 563px;
+    margin-left: 1015px;
+}
+.alloyWheels {
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    width: 149px;
+    margin-top: 605px;
+    margin-left: -642px;
+}
+.circulo5 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 340px;
+    margin-left: 1630px;
+}
+.fundoCirculo5 {
+    position: absolute;
+    z-index: 1;
+    width: 36.33px;
+    height: 36.33px;
+    margin-top: 340px;
+    margin-left: 1630px;
+}
+.cruz5 {
+    position: absolute;
+    z-index: 1;
+    width: 19px;
+    height: 19px;
+    margin-top: 348px;
+    margin-left: 1638px;
+}
+.linhaTailLights {
+    position: absolute;
+    z-index: 1;
+    width: 45px;
+    height: 183px;
+    margin-top: 355px;
+    margin-left: 1680px;
+}
+.tailLights {
+    position: absolute;
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    color: #FFFFFF;
+    width: 149px;
+    margin-top: 540px;
+    margin-left: 1668px;
+}
+.bolinhaCentral {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    margin-top: 327px;
+    margin-left: 1849px;
+}
+.bolinhaLateral {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    margin-top: 277px;
+    margin-left: 1854px;
+}
+.bolinhaLateral2 {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    margin-top: 387px;
+    margin-left: 1854px;
+}
+footer {
+    display: flex;
+}
+.lista2 {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-family: 'Roboto';
+    z-index: 1;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+.potencia {
+    margin-top: 80px;
+    margin-left: 830px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+.tempo {
+    margin-top: 80px;
+    margin-left: 136px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+.velocidade {
+    margin-top: 80px;
+    margin-left: 164px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+.bateria {
+    margin-top: 80px;
+    margin-left: 162px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+.lista3 {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-family: 'Roboto';
+    font-size: 24px;
+    border: 1px solid #FFFFFF;
+    border-radius: 25px;
+    height: 145px;
+    background: rgba(196, 196, 196, 0.07);
+    backdrop-filter: blur(20px);
+    margin-left: 680px;
+    margin-top: 49px;
+    margin-bottom: 39px;
+}
+.motor {
+    margin-top: 40px;
+    margin-left: 165px;
+    font-weight: 500;
+    color: #CCC6C6;
+}
+.tempoDeCarregamento {
+    margin-top: 40px;
+    margin-left: 156px;
+    font-weight: 500;
+    width: 184px;
+    color: #CCC6C6;
+}
+.maiorVelocidade {
+    margin-top: 40px;
+    margin-left: 120px;
+    font-weight: 500;
+    width: 113px;
+    color: #CCC6C6;
+}
+.bateria2 {
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 80px;
+    font-weight: 500;
+    color: #CCC6C6;
+}
+.eclipseMaior {
+    position: absolute;
+    z-index: -1;
+    width: 110px;
+    height: 110px;
+    margin-top: 14px;
+    margin-left: 1740px;
+} 
+.eclipseMenor {
+    position: absolute;
+    z-index: -1;
+    width: 76px;
+    height: 76px;
+    margin-top: 133px;
+    margin-left: 640px;
+}
