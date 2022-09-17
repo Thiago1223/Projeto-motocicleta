@@ -52,7 +52,7 @@ header {
 main {
     background-color: #222121;
     display: flex;
-    height: 590px;
+    height: 558px;
 }
 .titulo {
     position: absolute;
@@ -109,8 +109,8 @@ main {
 .motocicleta {
     z-index: 1;
     width: 1004px;
-    height: 725px;
-    margin-top: -54px;
+    height: 675px;
+    margin-top: -34px;
     margin-left: 55px;
 }
 .circulo1 {
@@ -118,7 +118,7 @@ main {
     z-index: 1;
     width: 36.33px;
     height: 36.33px;
-    margin-top: 135px;
+    margin-top: 145px;
     margin-left: 1110px;
 }
 .fundoCirculo1 {
@@ -126,7 +126,7 @@ main {
     z-index: 1;
     width: 36.33px;
     height: 36.33px;
-    margin-top: 135px;
+    margin-top: 145px;
     margin-left: 1110px;
 }
 .cruz1 {
@@ -134,7 +134,7 @@ main {
     z-index: 1;
     width: 19px;
     height: 19px;   
-    margin-top: 144px;
+    margin-top: 154px;
     margin-left: 1119px;
 }
 .linhaHandlebar {
@@ -142,7 +142,7 @@ main {
     z-index: 1;
     width: 170px;
     height: 148px;
-    margin-top: 8px;
+    margin-top: 18px;
     margin-left: 1150px;
 }
 .handlebar {
@@ -150,7 +150,7 @@ main {
     font-weight: 500;
     font-size: 24px;
     color: #FFFFFF;
-    margin-top: -23px;
+    margin-top: -20px;
     margin-left: -458px;
 }
 .circulo2 {
@@ -199,7 +199,7 @@ main {
     z-index: 1;
     width: 36.33px;
     height: 36.33px;
-    margin-top: 268px;
+    margin-top: 238px;
     margin-left: 1479px;
 }
 .fundoCirculo3 {
@@ -207,7 +207,7 @@ main {
     z-index: 1;
     width: 36.33px;
     height: 36.33px;
-    margin-top: 268px;
+    margin-top: 238px;
     margin-left: 1479px;
 }
 .cruz3 {
@@ -215,7 +215,7 @@ main {
     z-index: 1;
     width: 19px;
     height: 19px;   
-    margin-top: 276px;
+    margin-top: 246px;
     margin-left: 1487px;
 }
 .linhaErgonomicSeat {
@@ -223,7 +223,7 @@ main {
     z-index: 1;
     width: 170px;
     height: 148px;
-    margin-top: 140px;
+    margin-top: 110px;
     margin-left: 1514px;
 }
 .ergonomicSeat {
@@ -231,7 +231,7 @@ main {
     font-weight: 500;
     font-size: 24px;
     color: #FFFFFF;
-    margin-top: 110px;
+    margin-top: 80px;
     margin-left: 380px;
 }
 .circulo4 {
@@ -239,7 +239,7 @@ main {
     z-index: 1;
     width: 36.33px;
     height: 36.33px;
-    margin-top: 545px;
+    margin-top: 515px;
     margin-left: 982px;
 }
 .fundoCirculo4 {
@@ -247,7 +247,7 @@ main {
     z-index: 1;
     width: 36.33px;
     height: 36.33px;
-    margin-top: 545px;
+    margin-top: 515px;
     margin-left: 982px;
 }
 .cruz4 {
@@ -255,7 +255,7 @@ main {
     z-index: 1;
     width: 19px;
     height: 19px;
-    margin-top: 554px;
+    margin-top: 524px;
     margin-left: 991px;
 }
 .linhaAlloyWheels {
@@ -263,7 +263,7 @@ main {
     z-index: 1;
     width: 175px;
     height: 41px;
-    margin-top: 563px;
+    margin-top: 533px;
     margin-left: 1015px;
 }
 .alloyWheels {
@@ -272,7 +272,7 @@ main {
     font-size: 24px;
     color: #FFFFFF;
     width: 149px;
-    margin-top: 605px;
+    margin-top: 575px;
     margin-left: -642px;
 }
 .circulo5 {
@@ -280,7 +280,7 @@ main {
     z-index: 1;
     width: 36.33px;
     height: 36.33px;
-    margin-top: 340px;
+    margin-top: 330px;
     margin-left: 1630px;
 }
 .fundoCirculo5 {
@@ -288,7 +288,7 @@ main {
     z-index: 1;
     width: 36.33px;
     height: 36.33px;
-    margin-top: 340px;
+    margin-top: 330px;
     margin-left: 1630px;
 }
 .cruz5 {
@@ -296,7 +296,7 @@ main {
     z-index: 1;
     width: 19px;
     height: 19px;
-    margin-top: 348px;
+    margin-top: 338px;
     margin-left: 1638px;
 }
 .linhaTailLights {
@@ -304,7 +304,7 @@ main {
     z-index: 1;
     width: 45px;
     height: 183px;
-    margin-top: 355px;
+    margin-top: 345px;
     margin-left: 1680px;
 }
 .tailLights {
@@ -314,28 +314,28 @@ main {
     font-size: 24px;
     color: #FFFFFF;
     width: 149px;
-    margin-top: 540px;
+    margin-top: 530px;
     margin-left: 1668px;
 }
 .bolinhaCentral {
     position: absolute;
     width: 23px;
     height: 23px;
-    margin-top: 327px;
+    margin-top: 307px;
     margin-left: 1849px;
 }
 .bolinhaLateral {
     position: absolute;
     width: 13px;
     height: 13px;
-    margin-top: 277px;
+    margin-top: 257px;
     margin-left: 1854px;
 }
 .bolinhaLateral2 {
     position: absolute;
     width: 13px;
     height: 13px;
-    margin-top: 387px;
+    margin-top: 367px;
     margin-left: 1854px;
 }
 footer {
